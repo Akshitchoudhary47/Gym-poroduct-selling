@@ -259,6 +259,9 @@
     <hr />
     <div class="container copyrights">
       <div>Copyright © by Akshit</div>
+      <div>All Rights Reserved</div>
+      <div>Designed by Akshit Choudhary</div>
+      
       <a href="https://github.com/Akshitchoudhary47/Gym-poroduct-selling" target="_blank" > <i class="fa-brands fa-github "></i></a>
     </div>
   </footer>
